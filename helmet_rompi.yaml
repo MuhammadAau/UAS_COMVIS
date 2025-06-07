@@ -1,0 +1,6 @@
+
+train: /content/helmet_rompi/images/train
+val: /content/helmet_rompi/images/val
+
+nc: 2
+names: ['helmet', 'vest']
